@@ -1,2 +1,3 @@
 # hello-world
-just the beginning
+
+Passionate about AI and ML
